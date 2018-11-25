@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidLayout1</string>
+    <string name="this_is_a_button">This is a button</string>
+    <string name="this_is_a_lighter_button">This is a lighter button</string>
+    <string name="purple_text_view">This is a purple text view</string>
+    <string name="beige_text_view">THIS IS A BEIGE TEXT VIEW</string>
+    <string name="this_is_an_orange_text_view">THIS IS AN ORANGE TEXT VIEW</string>
+    <string name="bird_image">bird image</string>
+    <string name="this_is_a_purple_text_view">THIS IS A PURPLE TEXT VIEW</string>
+    <string name="this_is_an_edit_text">This is an edit text</string>
+    <string name="edit_text">Edit text</string>
+    <string name="this_is_another_edit_text">This is another edit text</string>
+    <string name="notify_me">Notify me</string>
+    <string name="auto_backup">Auto backup</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
